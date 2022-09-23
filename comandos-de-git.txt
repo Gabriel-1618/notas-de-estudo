@@ -5,5 +5,3 @@ git push --- atualiza as alterações no repositório remoto;
 git pull --- busca e atualiza o repositório local;
 
 git restore --source hash --- restaura um commit antigo;
-
-Fazendo outro teste;
