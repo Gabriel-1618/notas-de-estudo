@@ -1,0 +1,1 @@
+console.log("Esse repositório é apenas para notas de estudo!")
